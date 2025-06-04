@@ -4,7 +4,7 @@ from datetime import datetime #Para obtener fecha y hora
 from API import chat_con_php #Conecta a main.py con el asistente virtual 
 import shutil #Para obtener el tamaño de la termian
 import textwrap #Para ajustar tectos largos en varias lineas
-
+print("lo que sea")
 
 
 CARPETA_ARCHIVOS = "archivos"
